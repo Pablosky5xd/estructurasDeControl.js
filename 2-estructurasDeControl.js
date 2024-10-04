@@ -43,7 +43,7 @@ function repetirMensaje() {
     do {
         contar = contar - 1
         console.log("estoy aprendiendo JavaScript")
-    } while (contar == 0)
+    } while (contar > 0)
 }
 
 // Ejercicio 5: Bucle for
